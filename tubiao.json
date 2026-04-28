@@ -3,9 +3,9 @@
 "description":"图标按照服名或群名命名，按照A-Z排列，方便查找。Fileball可以在图标搜索框搜索图标名。", 
 "icons":
     [
-	{"name":"ty", "url":"https://raw.githubusercontent.com/libra198666/pic/pic/main/ty.png"},
-	{"name":"ty1", "url":"https://raw.githubusercontent.com/libra198666/pic/pic/main/ty1.png"},
-	{"name":"dou", "url":"https://raw.githubusercontent.com/libra198666/pic/pic/main/dou.png"},
-	{"name":"om", "url":"https://raw.githubusercontent.com/libra198666/pic/pic/main/om.png"}
+	{"name":"ty", "url":"https://raw.githubusercontent.com/libra198666/pic/refs/heads/main/pic/ty.jpg"},
+	{"name":"ty1", "url":"https://raw.githubusercontent.com/libra198666/pic/refs/heads/main/pic/ty1.jpg"},
+	{"name":"dou", "url":"https://raw.githubusercontent.com/libra198666/pic/refs/heads/main/pic/dou.jpg"},
+	{"name":"om", "url":"https://raw.githubusercontent.com/libra198666/pic/refs/heads/main/pic/om.jpg"}
     ]
 }
