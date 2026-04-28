@@ -3,7 +3,7 @@
 "description":"图标按照服名或群名命名，按照A-Z排列，方便查找。Fileball可以在图标搜索框搜索图标名。", 
 "icons":
     [
-	{"name":"nanxi", "url":"https://raw.githubusercontent.com/libra198666/pic/main/ty.jpeg"},
-	{"name":"nanxi", "url":"https://raw.githubusercontent.com/libra198666/pic/main/ty1.jpeg"}
+	{"name":"nanxi", "url":"https://raw.githubusercontent.com/libra198666/pic/main/ty.png"},
+	{"name":"nanxi", "url":"https://raw.githubusercontent.com/libra198666/pic/main/ty1.png"}
     ]
 }
