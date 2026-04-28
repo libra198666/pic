@@ -1,16 +1,9 @@
 {
-"name":"Fileball Icon", 
+"name":"lyn", 
 "description":"图标按照服名或群名命名，按照A-Z排列，方便查找。Fileball可以在图标搜索框搜索图标名。", 
 "icons":
     [
-	{"name":"aca", "url":"https://raw.githubusercontent.com/libra198666/tubiao/main/aca.png"},
-	{"name":"ntr", "url":"https://raw.githubusercontent.com/libra198666/tubiao/main/ntr.png"},
-	{"name":"bird", "url":"https://raw.githubusercontent.com/libra198666/tubiao/main/bird.png"},
-	{"name":"bike", "url":"https://raw.githubusercontent.com/libra198666/tubiao/main/bike.png"},
-	{"name":"agan", "url":"https://raw.githubusercontent.com/libra198666/tubiao/main/agan.png"},
-	{"name":"alphatv", "url":"https://raw.githubusercontent.com/libra198666/tubiao/main/alphatv.png"},
-	{"name":"kaixin", "url":"https://raw.githubusercontent.com/libra198666/tubiao/main/kaixin.png"},
-	{"name":"nanxi", "url":"https://raw.githubusercontent.com/libra198666/tubiao/main/nanxi.png"},
-	{"name":"rainbow", "url":"https://raw.githubusercontent.com/libra198666/tubiao/main/rainbow.png"}
+	{"name":"nanxi", "url":"https://raw.githubusercontent.com/libra198666/pic/main/ty.png"},
+	{"name":"nanxi", "url":"https://raw.githubusercontent.com/libra198666/pic/main/ty1.png"}
     ]
 }
